@@ -1,0 +1,69 @@
+Game Development Course Program
+
+Year 1: 48 weeks
+  - Week 1: Computers, binary, hardward, input, output, CPU, memory, OS, cmd, terminal
+  - Week 2: Programming, Algorithm, statement, python, variable
+  - Week 3: Algorithm, Sequence, Operations
+  - Week 4: IF, Logic, bus ticket, full calculator
+  - Week 5: Loops, guessing game
+  - Week 6: String
+  - Week 7: Tuples
+  - Week 8: Lists
+  - Week 9: Functions, Nim
+  - Week 10: Functions, Nim2
+  - Week 11: Functions, Tictactoe
+  - Week 12: Functions, Tictactoe
+  - Week 13: Files
+  - Week 14: Files
+  - Week 15: Files
+  - Week 16: Files
+  - Week 17: Class
+  - Week 18: Class
+  - Week 19: Class
+  - Week 20: Class
+  - Week 21: Graphics
+  - Week 22: Graphics
+  - Week 23: Graphics
+  - Week 24: Graphics
+  - Week 25: Data Structure
+  - Week 26: Data Structure
+  - Week 27: Data Structure
+  - Week 28: Data Structure
+  - Week 29: Multimedia
+  - Week 30: Multimedia
+  - Week 31: Multimedia
+  - Week 32: Multimedia
+  - Week 33: Algorithms
+  - Week 34: Algorithms
+  - Week 35: Algorithms
+  - Week 36: Algorithms
+  - Week 37: Scientific
+  - Week 38: Scientific
+  - Week 39: Scientific
+  - Week 40: Scientific
+  - Week 41: Data
+  - Week 42: Data
+  - Week 43: Data
+  - Week 44: Data
+  - Week 45: Graphics: Windows, UI
+  - Week 46: Graphics: Paint program
+  - Week 47: Graphics: Pygame
+  - Week 48: Graphics: Colors and Images
+
+Year 2
+  - Game developement with Python
+  - Math
+  - Graphic
+  - Physic
+Year 3
+  - C++
+  -
+Year 4
+  - Game Development with C++
+  - Game Engine with C++
+Year 5
+  - Introduction to AI
+  - AI for Game
+Year 6
+  - Game Design
+  - Game production
