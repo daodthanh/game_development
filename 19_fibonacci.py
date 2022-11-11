@@ -1,4 +1,6 @@
 # 19_fibonacci.py
+
+print("Hello! Fibonnaci program")
 pre1 = 1
 pre2 = 1
 print(f"{pre1}, {pre2}", end=", ")
@@ -9,3 +11,4 @@ for i in range(1,10):
   pre2 = nxt
   nxt = pre1 + pre2
 print()
+
