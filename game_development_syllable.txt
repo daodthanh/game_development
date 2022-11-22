@@ -11,8 +11,8 @@ Year 1: 48 weeks
   - Week 8: Lists
   - Week 9: Functions, Nim
   - Week 10: Functions, Nim2
-  - Week 11: Functions, Tictactoe
-  - Week 12: Functions, Tictactoe
+  - Week 11: Functions, Fibonacci
+  - Week 12: Functions, GCD
   - Week 13: Files
   - Week 14: Files
   - Week 15: Files

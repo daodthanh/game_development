@@ -1,5 +1,3 @@
-# 19_fibonacci.py
-
 print("Hello! Fibonnaci program")
 print("This program will show the first ten number in Fibonaci series")
 print("Edit2")
